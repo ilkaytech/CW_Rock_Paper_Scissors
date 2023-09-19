@@ -1,1 +1,1 @@
-# CW_Rock_Paper_Scissors
+# DOM Project Example Rock Paper Scissors 
