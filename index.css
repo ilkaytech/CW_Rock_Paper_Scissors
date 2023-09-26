@@ -6,3 +6,16 @@
   margin: 0;
   box-sizing: border-box;
 }
+
+:root {
+  --yellow: #ffc538;
+  --red: #fb778b;
+  --green: #5ab7ac;
+  --black: #121212;
+  --grey: #cbcadad9;
+  --ff-comfortaa: "Comfortaa", cursive;
+  --ff-oswald: "Oswald", sans-serif;
+}
+body {
+  background-color: var(--black);
+}
