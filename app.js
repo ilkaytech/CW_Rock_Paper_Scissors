@@ -22,5 +22,10 @@ paperImg.addEventListener("click", () => {
   image.alt = "paper";
   yourChoiceDiv.appendChild(image);
 });
+scissorImg.addEventListener("click", () => {
+  image.src = "./assets/scissor.png";
+  image.alt = "scissor";
+  yourChoiceDiv.appendChild(image);
+});
 
 // Functions
