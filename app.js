@@ -16,8 +16,11 @@ rockImg.addEventListener("click", () => {
   image.src = "./assets/rock.png";
   image.alt = "rock";
   yourChoiceDiv.appendChild(image);
-
-  //   yourChoiceDiv.innerHTML = `<img src"./assets/rock.png" alt="rock">`;
+});
+paperImg.addEventListener("click", () => {
+  image.src = "./assets/paper.png";
+  image.alt = "paper";
+  yourChoiceDiv.appendChild(image);
 });
 
 // Functions
